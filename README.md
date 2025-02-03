@@ -1,2 +1,0 @@
-# Riddle
-Solve the Riddle!
